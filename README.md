@@ -16,14 +16,14 @@
 * **Інструменти:** Maven, Docker
 ## Як запустити проєкт  
 1. Клонуйте репозиторій  
-`git clone ...`
+`git clone https://github.com/andrfurs/clinic-reception.git`
 2. Налаштуйте БД  
 Запустіть Docker  
 `docker-compose up -d`
 3. Запустіть застосунок  
 `mvn spring-boot:run`
 4. Перегляд документації  
-Перейдіть за посиланням `http://localhost:8080/swagger-ui/index.html#/`  
+Перейдіть за посиланням <http://localhost:8080/swagger-ui/index.html#/>  
 <img src="images/swagger.png" width="600">  
 
 ## Приклади запитів  
