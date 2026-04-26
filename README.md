@@ -26,9 +26,10 @@
 Перейдіть за посиланням `http://localhost:8080/swagger-ui/index.html#/`  
 <img src="images/swagger.png" width="600">
 ## Приклади запитів  
-| Метод  | Ендпоінт                                                    | Опис                     | Результат                                |  
-|--------|-------------------------------------------------------------|--------------------------|------------------------------------------|  
-| GET    | http://localhost:8080/user/doctors                          | Отримати список лікарів  | ![img_get.png](images/img_get.png)       |  
-| POST   | http://localhost:8080/admin/times                           | Створити новий час       | ![img_post.png](images/img_post.png)     |  
-| PUT    | http://localhost:8080/admin/schedules/{scheduleId}/{timeId} | Додати час у розклад     | ![img_put.png](images/img_put.png)       |  
-| DELETE | http://localhost:8080/user/appointments/{id}                | Видалити запис на прийом | ![img_delete.png](images/img_delete.png) |  
+  
+| Метод  | Ендпоінт                                                    | Опис                     | Результат                                |
+|--------|-------------------------------------------------------------|--------------------------|------------------------------------------|
+| GET    | http://localhost:8080/user/doctors                          | Отримати список лікарів  | ![img_get.png](images/img_get.png)       |
+| POST   | http://localhost:8080/admin/times                           | Створити новий час       | ![img_post.png](images/img_post.png)     |
+| PUT    | http://localhost:8080/admin/schedules/{scheduleId}/{timeId} | Додати час у розклад     | ![img_put.png](images/img_put.png)       |
+| DELETE | http://localhost:8080/user/appointments/{id}                | Видалити запис на прийом | ![img_delete.png](images/img_delete.png) |
