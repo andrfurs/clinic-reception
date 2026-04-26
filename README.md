@@ -24,7 +24,7 @@
 `mvn spring-boot:run`
 4. Перегляд документації  
 Перейдіть за посиланням `http://localhost:8080/swagger-ui/index.html#/`  
-<img src="images/swagger.png" width="600">
+<img src="images/swagger.png" width="600">  
 ## Приклади запитів  
   
 | Метод  | Ендпоінт                                                    | Опис                     | Результат                                |
